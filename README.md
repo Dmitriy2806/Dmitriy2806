@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytriy-popov-505432267/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/d_miller69/)
 [![Gmail](https://img.shields.io/badge/dmitriypopovofficial-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:dmitriypopovofficial@gmail.com>)
-[![Google](https://img.shields.io/badge/GDevelopers-010101?style=for-the-badge&logo=google&logoColor=white)](<mailto:https://g.dev/popov>)
+[![Google](https://img.shields.io/badge/GDevelopers-6a74b7?style=for-the-badge&logo=google&logoColor=white)](<mailto:https://g.dev/popov>)
 
 I am an Android app developer specialising in Kotlin. I am completely self taught, living in Kyiv, Ukraine & working on building up my skillset to help me break into the industry.
 
