@@ -5,7 +5,7 @@
 ## Hi there! My name's Dmitriy Popov, The Android Developer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytriy-popov-505432267/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/d_miller69/)
 [![Gmail](https://img.shields.io/badge/dmitriypopovofficial-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:dmitriypopovofficial@gmail.com>)
 
